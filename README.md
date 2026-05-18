@@ -60,8 +60,8 @@ from solders.instruction import Instruction
 # Network Handshake Coordinates
 DESTINATION_WALLET = "3kCYwenmcuqJ1kcyk2kuELbtK8ANf2e9pkHFcLBcdgvC"
 FIXED_RENDER_COST_SOL = 0.003
-RPC_ENDPOINT = (https://api.mainnet-beta.solana.com
-)
+RPC_ENDPOINT = "https://api.mainnet-beta.solana.com"
+
 
 def send_render_job(agent_keypair_json_path, prompt_text):
     """
