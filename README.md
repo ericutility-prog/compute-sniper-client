@@ -1,4 +1,30 @@
 # compute-sniper-client
+## 📡 Live Protocol Status & Activity Ledger
+
+
+| Metric | Current Status | Network Node / Verification |
+| :--- | :--- | :--- |
+| **Protocol Pipeline** | 🟢 Operational / Online | Mainnet Deployment Layer |
+| **Compute Engine** | ⚡ Active (1x RTX 4090 Dedicated) | Vast.ai Sniped Instance Matrix |
+| **Settlement Registry** | 📥 Listening for Inbound SOL/USDC | Solana Account `3kCYwenm...C` |
+| **Bounty Campaign** | 🏆 **$50.00 SOL/USDC Active** | Agent Plugin Modular Wrap Layer |
+
+### 📊 Recent System Output Logs (Last 24 Hours)
+```text
+[🚀] Compute Sniper Factory Engine Active. Monitoring Queue Ledger...
+[➔] Waking up hardware node for Job #1: 'Cinematic sci-fi drone shot, neon city...'
+[✓] Secure Instance Found: Host ssh3.vast.ai:12032 connected.
+[🏁] Job #1 completely closed out in database ledger -> render_job_1.mp4 harvested.
+[➔] Waking up hardware node for Job #2: 'Cyberpunk sports car driving...'
+[🏁] Job #2 completely closed out in database ledger -> render_job_2.mp4 harvested.
+[➔] Waking up hardware node for Job #3: 'A majestic eagle flying over snow-covered mountains'
+[🏁] Job #3 completely closed out in database ledger -> render_job_3.mp4 harvested.
+[➔] Waking up hardware node for Job #4: 'A majestic eagle flying over snow-covered mountains'
+[🏁] Job #4 completely closed out in database ledger -> render_job_4.mp4 harvested.
+[⏳] Queue empty. Monitoring for incoming developer payment webhooks...
+```
+---
+
 markdown
 # ⚡ COMPUTE SNIPER 2.0 (Solana DePIN Integration Layer)
 
